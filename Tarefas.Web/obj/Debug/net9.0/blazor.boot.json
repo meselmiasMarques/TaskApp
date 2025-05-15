@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Tarefas.Web",
   "resources": {
-    "hash": "sha256-t7mwYlgABoRFEIowkpGyW1alivytrrbXhSVyShBq7mk=",
+    "hash": "sha256-KG55M20zRLvkgFG5aHZhD9BSTO1ZaKvi8nV/zaCUSy4=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Tarefas.Web.i9rwp279nv.wasm": "Tarefas.Web.wasm",
-      "Tarefas.Web.npmnsrkb2t.pdb": "Tarefas.Web.pdb"
+      "Tarefas.Web.w2ub1yg0po.wasm": "Tarefas.Web.wasm",
+      "Tarefas.Web.v5l0euns2j.pdb": "Tarefas.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -412,10 +412,10 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Tarefas.Web.i9rwp279nv.wasm": "sha256-+vxFk8lULHTODhGWibrX4oEm7WKlDR4XwlbgC+0CuG4="
+      "Tarefas.Web.w2ub1yg0po.wasm": "sha256-+Cmqsxo9WPGjo0lGSmq+udwV1H16OVkaG2vuA/sb784="
     },
     "pdb": {
-      "Tarefas.Web.npmnsrkb2t.pdb": "sha256-u7odCo60Rkp7ClOy3N8591XM1uKnwqE2Bf1jCLMDmAE="
+      "Tarefas.Web.v5l0euns2j.pdb": "sha256-I+H9lip5uX1Z4+UxLLwylPWNmAR6HiKxirAvsV03BvU="
     }
   },
   "cacheBootResources": true,

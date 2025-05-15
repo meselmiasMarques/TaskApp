@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "yyWthI3G",
+  "version": "GTsGIEFm",
   "assets": [
     {
       "hash": "sha256-W+TnHEtR2vN+8RhNM/dyyZkhDkTJnAlIFVyJquEr7zY=",
@@ -758,19 +758,19 @@ self.assetsManifest = {
       "url": "_framework/System.Xml.jzjf1ui2ck.wasm"
     },
     {
-      "hash": "sha256-+vxFk8lULHTODhGWibrX4oEm7WKlDR4XwlbgC+0CuG4=",
-      "url": "_framework/Tarefas.Web.i9rwp279nv.wasm"
+      "hash": "sha256-I+H9lip5uX1Z4+UxLLwylPWNmAR6HiKxirAvsV03BvU=",
+      "url": "_framework/Tarefas.Web.v5l0euns2j.pdb"
     },
     {
-      "hash": "sha256-u7odCo60Rkp7ClOy3N8591XM1uKnwqE2Bf1jCLMDmAE=",
-      "url": "_framework/Tarefas.Web.npmnsrkb2t.pdb"
+      "hash": "sha256-+Cmqsxo9WPGjo0lGSmq+udwV1H16OVkaG2vuA/sb784=",
+      "url": "_framework/Tarefas.Web.w2ub1yg0po.wasm"
     },
     {
       "hash": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "url": "_framework/WindowsBase.5lai2eowco.wasm"
     },
     {
-      "hash": "sha256-1ZiIJKHG9I8C8HLRGU+NCTRqnGWz9lUy41KvSDkUkCU=",
+      "hash": "sha256-lyfgEBarFXTYplMOR60e62P8FnygiIrdZoxkt+FHQbA=",
       "url": "_framework/blazor.boot.json"
     },
     {
