@@ -1,5 +1,5 @@
 ﻿using Tarefas.Core.Models.Categories;
-using Tarefas.Core.Models.Emuns;
+using Tarefas.Core.Models.Enums;
 
 namespace Tarefas.Core.Models.Todos;
 

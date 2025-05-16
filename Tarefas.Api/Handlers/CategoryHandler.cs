@@ -59,7 +59,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
                 return new Response<Category?>(null, 500, "Categoria não encontrada");
             return new Response<Category?>(category);
         }
-        catch (Exception e)
+        catch 
         {
             return new Response<Category?>(null, 404, "Ocorreu um erro ao salvar categoria");
         }
@@ -77,7 +77,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
             await context.SaveChangesAsync();
             return new Response<Category?>(null, 200, "Categoria excluída !");
         }
-        catch (Exception e)
+        catch 
         {
             return new Response<Category?>(null, 404, "Ocorreu um erro ao excluir categoria");
         }

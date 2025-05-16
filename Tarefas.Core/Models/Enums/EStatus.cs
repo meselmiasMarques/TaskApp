@@ -1,4 +1,4 @@
-﻿namespace Tarefas.Core.Models.Emuns;
+﻿namespace Tarefas.Core.Models.Enums;
 
 public enum EStatus
 {

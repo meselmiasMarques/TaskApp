@@ -41,9 +41,13 @@ C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logg
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\System.ClientModel.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\System.CodeDom.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -145,6 +149,7 @@ C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.GeneratedMSBuild
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.AssemblyInfoInputs.cache
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.AssemblyInfo.cs
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.csproj.CoreCompileInputs.cache
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.sourcelink.json
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\scopedcss\bundle\Tarefas.Api.styles.css
@@ -158,8 +163,3 @@ C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\refint\Tarefas.Api.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.pdb
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.genruntimeconfig.cache
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\ref\Tarefas.Api.dll
-C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
-C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.MvcApplicationPartsAssemblyInfo.cs

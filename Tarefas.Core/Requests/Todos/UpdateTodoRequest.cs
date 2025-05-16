@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Tarefas.Core.Models.Categories;
+using Tarefas.Core.Models.Enums;
 
 namespace Tarefas.Core.Requests.Todos;
 
-public class CreateTodoRequest
+public class UpdateTodoRequest
 {
+    public long Id { get; set; }
+    
     [Required(ErrorMessage = "campo é obrigatório")]
     [MaxLength(80)]
     public string? Title { get; set; }
@@ -13,5 +15,7 @@ public class CreateTodoRequest
     public string? Description { get; set; }
     [Required(ErrorMessage = "informe uma categoria")]
     public long CategoryId { get; set; }
-   
+    
+    [Required(ErrorMessage = "Status Inválido")]
+    public EStatus Status { get; set; } 
 }

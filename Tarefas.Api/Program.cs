@@ -15,7 +15,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
-//builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
+builder.Services.AddTransient<ITodoHandler, TodoHandler>();
 
 var app = builder.Build();
 
