@@ -17,10 +17,27 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Tarefas.Core\Tarefas.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="EndPoints\Categories\CategoryEndPoint\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="EndPoints\Categories\CategoryEndPoint\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="EndPoints\Categories\CategoryEndPoint\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="EndPoints\Categories\CategoryEndPoint\**" />
   </ItemGroup>
 
 </Project>

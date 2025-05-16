@@ -158,3 +158,8 @@ C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\refint\Tarefas.Api.dll
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.pdb
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.genruntimeconfig.cache
 C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\ref\Tarefas.Api.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DEV\Tarefas\Tarefas\Tarefas.Api\obj\Debug\net9.0\Tarefas.Api.MvcApplicationPartsAssemblyInfo.cs
