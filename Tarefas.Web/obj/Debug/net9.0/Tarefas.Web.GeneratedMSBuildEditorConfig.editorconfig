@@ -3,6 +3,9 @@ build_property.EnableAotAnalyzer =
 build_property.EnableSingleFileAnalyzer = 
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudAllowedAttributeList = 
 build_property.TargetFramework = net9.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -13,41 +16,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Tarefas.Web
 build_property.RootNamespace = Tarefas.Web
-build_property.ProjectDir = C:\DEV\Tarefas\Tarefas\Tarefas.Web\
+build_property.ProjectDir = C:\dev\Tarefas\Tarefas\Tarefas.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\DEV\Tarefas\Tarefas\Tarefas.Web
+build_property.MSBuildProjectDirectory = C:\dev\Tarefas\Tarefas\Tarefas.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/App.razor]
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Categories/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Categories/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Categories/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/_Imports.razor]
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Todos/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb3NcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Todos/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb3NcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Pages/Todos/List.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kb3NcTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/Layout/MainLayout.razor]
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ntg385gg37
 
-[C:/DEV/Tarefas/Tarefas/Tarefas.Web/Layout/NavMenu.razor]
+[C:/dev/Tarefas/Tarefas/Tarefas.Web/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7ldc4b6suk

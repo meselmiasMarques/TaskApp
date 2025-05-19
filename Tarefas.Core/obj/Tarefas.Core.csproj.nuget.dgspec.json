@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj": {}
+    "C:\\dev\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj": {
+    "C:\\dev\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj",
+        "projectUniqueName": "C:\\dev\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj",
         "projectName": "Tarefas.Core",
-        "projectPath": "C:\\DEV\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj",
+        "projectPath": "C:\\dev\\Tarefas\\Tarefas\\Tarefas.Core\\Tarefas.Core.csproj",
         "packagesPath": "C:\\Users\\mlima\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\Tarefas\\Tarefas\\Tarefas.Core\\obj\\",
+        "outputPath": "C:\\dev\\Tarefas\\Tarefas\\Tarefas.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

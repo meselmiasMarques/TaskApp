@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Tarefas.Web",
   "resources": {
-    "hash": "sha256-KG55M20zRLvkgFG5aHZhD9BSTO1ZaKvi8nV/zaCUSy4=",
+    "hash": "sha256-HXyWYCvyRdesnw+T8pgVOQeZSg3/GqXiCuXfXQQkkNw=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -16,15 +16,22 @@
       "Microsoft.Extensions.Configuration.Json.d1nka2rlr8.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
       "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
       "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.Diagnostics.3dggcz3f5g.wasm": "Microsoft.Extensions.Diagnostics.wasm",
+      "Microsoft.Extensions.Diagnostics.Abstractions.krp2q25ggl.wasm": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.kqqw7ug7ce.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.mh53tttw45.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.0i562wdyma.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Http.nac254jq09.wasm": "Microsoft.Extensions.Http.wasm",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "Microsoft.Extensions.Localization.wasm",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "Microsoft.Extensions.Localization.Abstractions.wasm",
       "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.25907k314f.wasm": "Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
+      "MudBlazor.bovigzwckz.wasm": "MudBlazor.wasm",
       "Microsoft.CSharp.rtelzgo5qn.wasm": "Microsoft.CSharp.wasm",
       "Microsoft.VisualBasic.Core.rov4p20cgi.wasm": "Microsoft.VisualBasic.Core.wasm",
       "Microsoft.VisualBasic.yffsxgg1pj.wasm": "Microsoft.VisualBasic.wasm",
@@ -201,8 +208,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Tarefas.Web.w2ub1yg0po.wasm": "Tarefas.Web.wasm",
-      "Tarefas.Web.v5l0euns2j.pdb": "Tarefas.Web.pdb"
+      "Tarefas.Core.r9ivs228aa.wasm": "Tarefas.Core.wasm",
+      "Tarefas.Core.xmuavdlryl.pdb": "Tarefas.Core.pdb",
+      "Tarefas.Web.wjzga9kgwa.wasm": "Tarefas.Web.wasm",
+      "Tarefas.Web.63s68xepqe.pdb": "Tarefas.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -236,15 +245,22 @@
       "Microsoft.Extensions.Configuration.Json.d1nka2rlr8.wasm": "sha256-X8yu6Be+ZHHzhDFDdP9RXu+aMsQKscEedJsYUzy2QII=",
       "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "sha256-lemV4Or052KZxgSAj3apn5nNQywSyUWl+2Fan98Bl+4=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "sha256-npQU9Z8aEiXs0oV0uIqqHDN/aChnciTYfWzbp9IfY/w=",
+      "Microsoft.Extensions.Diagnostics.3dggcz3f5g.wasm": "sha256-156LhXAYvHMyt3ZzK9IAfqAlTFyB7YXVJ/QGM31hggs=",
+      "Microsoft.Extensions.Diagnostics.Abstractions.krp2q25ggl.wasm": "sha256-8OA0nUv53l8IFeCTYWz0u2o5/PGbV4JeB8oSn+q16tI=",
       "Microsoft.Extensions.FileProviders.Abstractions.kqqw7ug7ce.wasm": "sha256-XK4yjhBp9ksL7h6/ebqAR1HCPn2J3GpEbf9c57HcAI8=",
       "Microsoft.Extensions.FileProviders.Physical.mh53tttw45.wasm": "sha256-it/ygGigzRU3ywKNWGR0Gl2nsIrJWHV/HC4P5v37uQk=",
       "Microsoft.Extensions.FileSystemGlobbing.0i562wdyma.wasm": "sha256-qIytzULqOsu5wQ9kRbESlZbqf91VCam4aH1AEY0B8dI=",
+      "Microsoft.Extensions.Http.nac254jq09.wasm": "sha256-vw+BtWX7li0ZyL0mpz9BapSo6oVbTU3WhQ7XUvXempU=",
+      "Microsoft.Extensions.Localization.bvn14pws96.wasm": "sha256-6UgMJoVZBfDdfzYR0aKVK6BWArxpXC1qiQDDjiXw/L4=",
+      "Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm": "sha256-GJNjpp2mlMIYboBhzukWw5r2Z24PsB0E9Gj9VoTGKEI=",
       "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "sha256-QXqjRpmXblZV5MMeJZFa3Mu4tE3kl+4rj0IQLUagaqk=",
       "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "sha256-KwwLdtp/WV66kdUDadHqq/t2a1K37aZTZfQ9dXMZHwI=",
       "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "sha256-rPwXGCJV2b2qbHrWMZjOHUDtmkMjf5M9ecjgbq3vlCc=",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.25907k314f.wasm": "sha256-RtVzoDULKaRIx4ZUMwAiCoPKWTGLHuEZzczPlfPFzlc=",
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "sha256-c3q6DqetjnVCASwVQf1HEJPSXiGtOzmzRbNsXrQRnpw=",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "sha256-KUgYboUywTiNc2KAn4+PwXUpsvPc+qyNcWlyUHCiuUA=",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "sha256-w+WvmTYZ9xv2XDrEoF7buW47/o7dUeKdnYWKUgyFEkU=",
+      "MudBlazor.bovigzwckz.wasm": "sha256-2+yogjv7R0JZeqjJAUDXjxIf79yTYGh2VNB7ITn/tmk=",
       "Microsoft.CSharp.rtelzgo5qn.wasm": "sha256-sb4OTrzpJjaX/xq3MPBJBmS9JkiQz9azllgFrhhU/bw=",
       "Microsoft.VisualBasic.Core.rov4p20cgi.wasm": "sha256-a3rs6Kmp+m12xUnYhoc07m3D9/0TM6zemU7jCmU0WwA=",
       "Microsoft.VisualBasic.yffsxgg1pj.wasm": "sha256-0oH/gAOr4hHKmXwali402ylm77D5GapsgQRn/Am7RTs=",
@@ -412,14 +428,19 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Tarefas.Web.w2ub1yg0po.wasm": "sha256-+Cmqsxo9WPGjo0lGSmq+udwV1H16OVkaG2vuA/sb784="
+      "Tarefas.Core.r9ivs228aa.wasm": "sha256-P3JLOxs/f1cPJFZe3cKy+IcA6gHslZePtINkAWBEYx8=",
+      "Tarefas.Web.wjzga9kgwa.wasm": "sha256-BJoKEyN3/GmZd5VWCo3Bp+fLoqcZKiQuuMOs1Pe83fg="
     },
     "pdb": {
-      "Tarefas.Web.v5l0euns2j.pdb": "sha256-I+H9lip5uX1Z4+UxLLwylPWNmAR6HiKxirAvsV03BvU="
+      "Tarefas.Core.xmuavdlryl.pdb": "sha256-mZzfdpwD8L4JWDLEzYV3v94JuKKbYaLSYLCih1kaegU=",
+      "Tarefas.Web.63s68xepqe.pdb": "sha256-TuC1h9SllQHdY+wNrZPyi4FO+BL7CzzzbC8KvCaYYfw="
     }
   },
   "cacheBootResources": true,
   "debugLevel": -1,
+  "appsettings": [
+    "../appsettings.json"
+  ],
   "globalizationMode": "sharded",
   "extensions": {
     "blazor": {}

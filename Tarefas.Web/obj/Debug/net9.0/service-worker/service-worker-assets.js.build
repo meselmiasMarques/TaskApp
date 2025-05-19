@@ -1,9 +1,17 @@
 self.assetsManifest = {
-  "version": "GTsGIEFm",
+  "version": "Rm79MER0",
   "assets": [
     {
       "hash": "sha256-W+TnHEtR2vN+8RhNM/dyyZkhDkTJnAlIFVyJquEr7zY=",
       "url": "Tarefas.Web.styles.css"
+    },
+    {
+      "hash": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=",
+      "url": "_content/MudBlazor/MudBlazor.min.css"
+    },
+    {
+      "hash": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=",
+      "url": "_content/MudBlazor/MudBlazor.min.js"
     },
     {
       "hash": "sha256-tckgv/MbZGhlQfELwFmF6c8AHefXpinSSGgVkwYNK64=",
@@ -62,6 +70,14 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm"
     },
     {
+      "hash": "sha256-156LhXAYvHMyt3ZzK9IAfqAlTFyB7YXVJ/QGM31hggs=",
+      "url": "_framework/Microsoft.Extensions.Diagnostics.3dggcz3f5g.wasm"
+    },
+    {
+      "hash": "sha256-8OA0nUv53l8IFeCTYWz0u2o5/PGbV4JeB8oSn+q16tI=",
+      "url": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.krp2q25ggl.wasm"
+    },
+    {
       "hash": "sha256-XK4yjhBp9ksL7h6/ebqAR1HCPn2J3GpEbf9c57HcAI8=",
       "url": "_framework/Microsoft.Extensions.FileProviders.Abstractions.kqqw7ug7ce.wasm"
     },
@@ -74,6 +90,18 @@ self.assetsManifest = {
       "url": "_framework/Microsoft.Extensions.FileSystemGlobbing.0i562wdyma.wasm"
     },
     {
+      "hash": "sha256-vw+BtWX7li0ZyL0mpz9BapSo6oVbTU3WhQ7XUvXempU=",
+      "url": "_framework/Microsoft.Extensions.Http.nac254jq09.wasm"
+    },
+    {
+      "hash": "sha256-GJNjpp2mlMIYboBhzukWw5r2Z24PsB0E9Gj9VoTGKEI=",
+      "url": "_framework/Microsoft.Extensions.Localization.Abstractions.o4jp2hcm79.wasm"
+    },
+    {
+      "hash": "sha256-6UgMJoVZBfDdfzYR0aKVK6BWArxpXC1qiQDDjiXw/L4=",
+      "url": "_framework/Microsoft.Extensions.Localization.bvn14pws96.wasm"
+    },
+    {
       "hash": "sha256-QXqjRpmXblZV5MMeJZFa3Mu4tE3kl+4rj0IQLUagaqk=",
       "url": "_framework/Microsoft.Extensions.Logging.96umgmlbmk.wasm"
     },
@@ -84,6 +112,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-rPwXGCJV2b2qbHrWMZjOHUDtmkMjf5M9ecjgbq3vlCc=",
       "url": "_framework/Microsoft.Extensions.Options.83qdyvwc4v.wasm"
+    },
+    {
+      "hash": "sha256-RtVzoDULKaRIx4ZUMwAiCoPKWTGLHuEZzczPlfPFzlc=",
+      "url": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.25907k314f.wasm"
     },
     {
       "hash": "sha256-c3q6DqetjnVCASwVQf1HEJPSXiGtOzmzRbNsXrQRnpw=",
@@ -112,6 +144,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-CMlsjY0eneJ23DNeddAkRd+uXgxUfZuvjyhHxXaSVsg=",
       "url": "_framework/Microsoft.Win32.Registry.w69ya3jgm7.wasm"
+    },
+    {
+      "hash": "sha256-2+yogjv7R0JZeqjJAUDXjxIf79yTYGh2VNB7ITn/tmk=",
+      "url": "_framework/MudBlazor.bovigzwckz.wasm"
     },
     {
       "hash": "sha256-PnoLAYq2j5HL4hkPDRjOmKZOx1oJEVsfP40NfvIWB8Q=",
@@ -758,19 +794,27 @@ self.assetsManifest = {
       "url": "_framework/System.Xml.jzjf1ui2ck.wasm"
     },
     {
-      "hash": "sha256-I+H9lip5uX1Z4+UxLLwylPWNmAR6HiKxirAvsV03BvU=",
-      "url": "_framework/Tarefas.Web.v5l0euns2j.pdb"
+      "hash": "sha256-P3JLOxs/f1cPJFZe3cKy+IcA6gHslZePtINkAWBEYx8=",
+      "url": "_framework/Tarefas.Core.r9ivs228aa.wasm"
     },
     {
-      "hash": "sha256-+Cmqsxo9WPGjo0lGSmq+udwV1H16OVkaG2vuA/sb784=",
-      "url": "_framework/Tarefas.Web.w2ub1yg0po.wasm"
+      "hash": "sha256-mZzfdpwD8L4JWDLEzYV3v94JuKKbYaLSYLCih1kaegU=",
+      "url": "_framework/Tarefas.Core.xmuavdlryl.pdb"
+    },
+    {
+      "hash": "sha256-TuC1h9SllQHdY+wNrZPyi4FO+BL7CzzzbC8KvCaYYfw=",
+      "url": "_framework/Tarefas.Web.63s68xepqe.pdb"
+    },
+    {
+      "hash": "sha256-BJoKEyN3/GmZd5VWCo3Bp+fLoqcZKiQuuMOs1Pe83fg=",
+      "url": "_framework/Tarefas.Web.wjzga9kgwa.wasm"
     },
     {
       "hash": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "url": "_framework/WindowsBase.5lai2eowco.wasm"
     },
     {
-      "hash": "sha256-lyfgEBarFXTYplMOR60e62P8FnygiIrdZoxkt+FHQbA=",
+      "hash": "sha256-N+Ha54q+8nuXtegRVTvpZ/OnceW6Z+tcMFy14Fq0SZk=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -822,6 +866,10 @@ self.assetsManifest = {
       "url": "_framework/netstandard.d82br99ghv.wasm"
     },
     {
+      "hash": "sha256-jq05erEXTbdMso0WZ47QBCMlUNSUlolZ//tFclmww0U=",
+      "url": "appsettings.json"
+    },
+    {
       "hash": "sha256-vGbjgqEqv4y3q5OB8W2R9LthkuF8mQfHFeNdKSReSmU=",
       "url": "css/app.css"
     },
@@ -838,7 +886,11 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Z3qPVwiotVThxKLTT+9sCK90zFU4jdaTo9H75wSBBB4=",
+      "hash": "sha256-pYI2M4K/sUy+Jj3157pC56FE7+vq1+rdaFBrXCDAHc0=",
+      "url": "imgs/tarefas.png"
+    },
+    {
+      "hash": "sha256-rZNQLH9LmeJy7YzkA6twslwSYf9M99f+vhoEuan9ZlM=",
       "url": "index.html"
     },
     {
