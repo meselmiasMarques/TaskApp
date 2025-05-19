@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Rm79MER0",
+  "version": "Ub7jcgkH",
   "assets": [
     {
       "hash": "sha256-W+TnHEtR2vN+8RhNM/dyyZkhDkTJnAlIFVyJquEr7zY=",
@@ -794,27 +794,27 @@ self.assetsManifest = {
       "url": "_framework/System.Xml.jzjf1ui2ck.wasm"
     },
     {
-      "hash": "sha256-P3JLOxs/f1cPJFZe3cKy+IcA6gHslZePtINkAWBEYx8=",
-      "url": "_framework/Tarefas.Core.r9ivs228aa.wasm"
+      "hash": "sha256-u8Fcws3rCUXspMpIyRIUxNdkQpfZQVyF5G82bsjdlRw=",
+      "url": "_framework/Tarefas.Core.l4as0f4115.wasm"
     },
     {
-      "hash": "sha256-mZzfdpwD8L4JWDLEzYV3v94JuKKbYaLSYLCih1kaegU=",
-      "url": "_framework/Tarefas.Core.xmuavdlryl.pdb"
+      "hash": "sha256-l5nlRD5rQ/inteiGOtluvJq7KFlwI2DPMNiZNEcXJJA=",
+      "url": "_framework/Tarefas.Core.ll6g5bj6qr.pdb"
     },
     {
-      "hash": "sha256-TuC1h9SllQHdY+wNrZPyi4FO+BL7CzzzbC8KvCaYYfw=",
-      "url": "_framework/Tarefas.Web.63s68xepqe.pdb"
+      "hash": "sha256-z+6dlAsVMarp8gIw5xtgn/aA+NqyYhxfxh4aIbCTEHc=",
+      "url": "_framework/Tarefas.Web.ln2z9ox0aq.pdb"
     },
     {
-      "hash": "sha256-BJoKEyN3/GmZd5VWCo3Bp+fLoqcZKiQuuMOs1Pe83fg=",
-      "url": "_framework/Tarefas.Web.wjzga9kgwa.wasm"
+      "hash": "sha256-YSu8UpabL128qWOdstSNeQUawsoarAHpcwawXDbpR34=",
+      "url": "_framework/Tarefas.Web.zj1rkggfrx.wasm"
     },
     {
       "hash": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "url": "_framework/WindowsBase.5lai2eowco.wasm"
     },
     {
-      "hash": "sha256-N+Ha54q+8nuXtegRVTvpZ/OnceW6Z+tcMFy14Fq0SZk=",
+      "hash": "sha256-HFp9aQBZsmm+RzirH8ROsYBavNvi8s8pdoCIYGFcmlA=",
       "url": "_framework/blazor.boot.json"
     },
     {

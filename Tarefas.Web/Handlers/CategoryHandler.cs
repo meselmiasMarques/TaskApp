@@ -42,19 +42,9 @@ public class CategoryHandler : ICategoryHandler
 
         return await result.Content.ReadFromJsonAsync<Response<Category?>>()
                ?? new Response<Category?>(null, 400, "Falha ao escluir categoria");
-
     }
 
     public async Task<Response<List<Category>?>> GetAllAsync()
-    {
-        try
-        {
-            var result = await _http.GetFromJsonAsync<Response<List<Category>?>>("v1/categories");
-            return result;
-        }
-        catch 
-        {
-            return new Response<List<Category>?>(null, 400, "Erro ao recuperar categorias");
-        }
-    }
-} 
+        => await _http.GetFromJsonAsync<Response<List<Category>?>>("v1/categories")
+           ?? new Response<List<Category>?>(null, 400, "Erro ao recuperar categorias");
+}

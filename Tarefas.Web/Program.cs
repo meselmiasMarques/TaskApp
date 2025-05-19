@@ -23,6 +23,6 @@ builder.Services
  builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(Configuration.BackendUrl) });
 
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
-
+builder.Services.AddTransient<ITodoHandler, TodoHandler>();
 
 await builder.Build().RunAsync();

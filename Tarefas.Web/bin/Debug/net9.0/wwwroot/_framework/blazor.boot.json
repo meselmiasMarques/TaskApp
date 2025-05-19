@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Tarefas.Web",
   "resources": {
-    "hash": "sha256-HXyWYCvyRdesnw+T8pgVOQeZSg3/GqXiCuXfXQQkkNw=",
+    "hash": "sha256-ukvEv6HWf5TtH4tAut5K4ax/jvxQzPrRNUdTrAWiO1k=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -208,10 +208,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Tarefas.Core.r9ivs228aa.wasm": "Tarefas.Core.wasm",
-      "Tarefas.Core.xmuavdlryl.pdb": "Tarefas.Core.pdb",
-      "Tarefas.Web.wjzga9kgwa.wasm": "Tarefas.Web.wasm",
-      "Tarefas.Web.63s68xepqe.pdb": "Tarefas.Web.pdb"
+      "Tarefas.Core.l4as0f4115.wasm": "Tarefas.Core.wasm",
+      "Tarefas.Core.ll6g5bj6qr.pdb": "Tarefas.Core.pdb",
+      "Tarefas.Web.zj1rkggfrx.wasm": "Tarefas.Web.wasm",
+      "Tarefas.Web.ln2z9ox0aq.pdb": "Tarefas.Web.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -428,12 +428,12 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Tarefas.Core.r9ivs228aa.wasm": "sha256-P3JLOxs/f1cPJFZe3cKy+IcA6gHslZePtINkAWBEYx8=",
-      "Tarefas.Web.wjzga9kgwa.wasm": "sha256-BJoKEyN3/GmZd5VWCo3Bp+fLoqcZKiQuuMOs1Pe83fg="
+      "Tarefas.Core.l4as0f4115.wasm": "sha256-u8Fcws3rCUXspMpIyRIUxNdkQpfZQVyF5G82bsjdlRw=",
+      "Tarefas.Web.zj1rkggfrx.wasm": "sha256-YSu8UpabL128qWOdstSNeQUawsoarAHpcwawXDbpR34="
     },
     "pdb": {
-      "Tarefas.Core.xmuavdlryl.pdb": "sha256-mZzfdpwD8L4JWDLEzYV3v94JuKKbYaLSYLCih1kaegU=",
-      "Tarefas.Web.63s68xepqe.pdb": "sha256-TuC1h9SllQHdY+wNrZPyi4FO+BL7CzzzbC8KvCaYYfw="
+      "Tarefas.Core.ll6g5bj6qr.pdb": "sha256-l5nlRD5rQ/inteiGOtluvJq7KFlwI2DPMNiZNEcXJJA=",
+      "Tarefas.Web.ln2z9ox0aq.pdb": "sha256-z+6dlAsVMarp8gIw5xtgn/aA+NqyYhxfxh4aIbCTEHc="
     }
   },
   "cacheBootResources": true,
